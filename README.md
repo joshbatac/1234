@@ -1,15 +1,15 @@
 # AIMI Automation Image Library
 
 ## Description
-This project is a image library tasked by [Shankaran Patel](doc:https://bitbucket.org/shankaran/image-library/src/main/).
+This project is an image library tasked by [Shankaran Patel](https://bitbucket.org/shankaran/image-library/src/main/).
 
 ## Table of Contents
-- [Link/Installation](#installation)
+- [Link/Installation](#linkinstallation)
 - [Usage](#usage)
 - [Contact](#contact)
 
 ## Link/Installation
-- [Visit Here](doc:https://faimi-automation-image-library-josh.netlify.app/) OR...
+- [Visit Here](https://faimi-automation-image-library-josh.netlify.app/) OR...
 - Clone the repository: `git clone git@github.com:joshbatac/AIMI-Automation-image-library.git`
 - Open `index.html` in your web browser.
 
