@@ -1,21 +1,21 @@
 # AIMI Automation Image Library
 
 ## Description
-This project is a frontend-only image library designed for automation tasks.
+This project is a image library tasked by [Shankaran Patel](doc:https://bitbucket.org/shankaran/image-library/src/main/).
 
 ## Table of Contents
-- [Installation](#installation)
+- [Link/Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
 
-## Installation
-- Clone the repository: `git clone <repository-url>`
+## Link/Installation
+- [Visit Here](doc:https://faimi-automation-image-library-josh.netlify.app/) OR...
+- Clone the repository: `git clone git@github.com:joshbatac/AIMI-Automation-image-library.git`
 - Open `index.html` in your web browser.
 
 ## Usage
-- Add images to the library by uploading them through the UI.
-- Search for images using keywords or tags.
 - View images in a grid layout.
+- Highlight images via left mouse click.
 
 ## Contact
 For questions or feedback, contact the project maintainer at [joshcbatac@gmail.com](mailto:joshcbatac@gmail.com).
