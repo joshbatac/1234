@@ -1,0 +1,1 @@
+// Use Vanilla Js/jQuery wherever is required, no external plugins allowed.
