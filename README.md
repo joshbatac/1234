@@ -4,7 +4,7 @@
 This project is an image library tasked by [Shankaran Patel](https://bitbucket.org/shankaran/image-library/src/main/).
 
 ## Table of Contents
-- [Link/Installation](#linkinstallation)
+- [Installation](#linkinstallation)
 - [Usage](#usage)
 - [Contact](#contact)
 
