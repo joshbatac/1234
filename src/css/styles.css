@@ -1,0 +1,47 @@
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  /* 4-5 images on desktop and 2 images on tablet, 1 image on mobile */
+  gap: 16px;
+  /* Make sure padding between boxes are consistent vertically as well as horizontally */
+  justify-content: center;
+  align-items: center; }
+
+.image-container {
+  position: relative;
+  width: 100%;
+  /* Image box must always be square */
+  padding-top: 100%;
+  /* ( using css aspect ratio 1:1 is not allowed) Image should not lose its aspect ratio */ }
+
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* Image should always fill the box */
+  border: 5px solid white;
+  box-sizing: border-box; }
+
+.checkbox {
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  opacity: 0.5;
+  border-radius: 3px;
+  accent-color: red;
+  top: 2%;
+  left: 2%;
+  z-index: 1;
+  /* Ensure checkbox is above the image */ }
+
+.checkbox:checked ~ img {
+  border-color: red;
+  /* Change border color to red */ }
+
+body {
+  background-color: gainsboro; }
+
+/*# sourceMappingURL=styles.css.map */
