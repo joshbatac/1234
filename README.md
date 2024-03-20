@@ -8,8 +8,7 @@ This project is an image library tasked by [Shankaran Patel](https://bitbucket.o
 - [Usage](#usage)
 - [Contact](#contact)
 
-## Link/Installation
-- [Visit Here](https://faimi-automation-image-library-josh.netlify.app/) OR...
+## Installation
 - Clone the repository: `git clone git@github.com:joshbatac/AIMI-Automation-image-library.git`
 - Navigate to the project directory: `cd AIMI-Automation-image-library`
 - Install dependencies: `npm install`
