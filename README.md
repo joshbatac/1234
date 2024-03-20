@@ -22,4 +22,4 @@ This project is an image library tasked by [Shankaran Patel](https://bitbucket.o
 For questions or feedback, contact the project maintainer at [joshcbatac@gmail.com](mailto:joshcbatac@gmail.com).
 
 ## Acknowledgments
-Special thanks to Zachary Hedges for providing this opportunity.
+Special thanks to Zachary Hedges for providing this opportunity and Shankaran Patel for the feedback.
