@@ -11,7 +11,10 @@ This project is an image library tasked by [Shankaran Patel](https://bitbucket.o
 ## Link/Installation
 - [Visit Here](https://faimi-automation-image-library-josh.netlify.app/) OR...
 - Clone the repository: `git clone git@github.com:joshbatac/AIMI-Automation-image-library.git`
-- Open `index.html` in your web browser.
+- Navigate to the project directory: `cd AIMI-Automation-image-library`
+- Install dependencies: `npm install`
+- Start the development server: `npm start`
+- Run on localhost
 
 ## Usage
 - View images in a grid layout.

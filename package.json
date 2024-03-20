@@ -1,0 +1,20 @@
+{
+  "name": "aimi-automation-image-library",
+  "version": "1.0.0",
+  "description": "## Description This project is an image library tasked by [Shankaran Patel](https://bitbucket.org/shankaran/image-library/src/main/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0"
+  }
+}

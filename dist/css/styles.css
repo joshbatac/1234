@@ -1,0 +1,28 @@
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 16px;
+  justify-content: center;
+  align-items: center; }
+  .image-grid .image-container {
+    position: relative;
+    width: 100%;
+    padding-top: 100%; }
+    .image-grid .image-container img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border: 5px solid white;
+      box-sizing: border-box; }
+  .image-grid input[type="checkbox"] {
+    display: none; }
+    .image-grid input[type="checkbox"]:checked + label img {
+      border: 5px solid red; }
+
+body {
+  background-color: gainsboro; }
+
+/*# sourceMappingURL=styles.css.map */
