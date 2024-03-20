@@ -13,9 +13,7 @@ This project is an image library tasked by [Shankaran Patel](https://bitbucket.o
 - Navigate to the project directory: `cd AIMI-Automation-image-library`
 - Install dependencies: `npm install`
 - Start the grunt development `grunt`
-- Navigate to dist/index.html `cd dist`
-- Run on index.html on localhost
-
+- Live View dist using localhost
 ## Usage
 - View images in a grid layout.
 - Highlight images via left mouse click.
