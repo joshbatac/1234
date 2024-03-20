@@ -12,9 +12,6 @@ module.exports = function(grunt) {
         },
       },
       sass: {
-        options: {
-          noCache: true
-        },
         dist: {
           files: {
             'src/css/styles.css': 'src/scss/styles.scss'
